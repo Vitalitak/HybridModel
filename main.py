@@ -117,6 +117,7 @@ def main():
     vel_e += acc_e * dt / 2.0
 
     print(vel_e)
+    print(acc_e)
 
     return 0
 
